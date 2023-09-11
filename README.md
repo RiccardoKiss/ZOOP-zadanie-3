@@ -1,4 +1,4 @@
-# utorok-18-00-e-kapustik-neparny-RiccardoKiss
+# ZOOP-zadanie-3
 ***
 
 # Tree Farm
@@ -18,9 +18,6 @@ Project developed as submission to subject "*Introduction to Object-Oriented Pro
 
 Applied refactoring methods:
  - renamed methods and variables (easier readability)
- -
- -
- -
  -
 
 [fiit]: <https://www.fiit.stuba.sk/>
